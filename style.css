@@ -1,0 +1,39 @@
+body{
+    color: white;
+    background-image: url(./stars.jpg);
+
+}
+h2{
+    text-align: left;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h3{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+pre{
+    color: rgb(74, 188, 233);
+    font-size: 55px;
+    text-align: left;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+footer{
+    font-size: small;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(156, 156, 156);
+}
+.Profile{
+    border-radius: 55%;
+}
+.myname{
+    font-size: 40px;
+}
+a {
+    color: yellowgreen;
+}
+button{ 
+    background-color: rgb(21, 27, 25);
+}
+hr {
+
+}
